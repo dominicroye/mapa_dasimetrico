@@ -1,1 +1,3 @@
-# mapa_dasimetrico
+# Mapa de desigualdades en Madrid: coropletas vs. dasimétrico
+
+
